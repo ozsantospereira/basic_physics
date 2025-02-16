@@ -37,6 +37,14 @@ The content provided in this repository is inspired by several authoritative sou
 - **Griffiths, D. J. (2017).** *Introduction to Electrodynamics*. Cambridge University Press.  
 - **Krane, K. (2019).** *Modern Physics*. Wiley.  
 
+# **My Social Media**
+- Website: [ozsantospereira.github.io](https://ozsantospereira.github.io/)
+- Medium: [@ozsp](https://medium.com/@ozsp)
+- Patreon: [ozsp](https://www.patreon.com/c/ozsp)
+- LinkedIn: [Osvaldo Pereira](https://www.linkedin.com/in/osvaldo-pereira)
+- Twitter/X: [@Osvaldo91422399](https://twitter.com/Osvaldo91422399)
+- ResearchGate: [Oz Santos Pereira](https://www.researchgate.net/profile/Oz-Santos-Pereira)
+- Google Scholar: [Osvaldo L. Santos-Pereira]
 # Contact and Feedback  
 For inquiries, suggestions, or discussions regarding the content of this repository, please use the Issues section or submit a Pull Request. Any feedback for improving the structure or content is highly appreciated.  This repository is intended to serve as a comprehensive and continuously evolving resource for physics education and research. Or just email me at osvald23@gmail.com.
 
